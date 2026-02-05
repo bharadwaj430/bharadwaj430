@@ -1,5 +1,5 @@
-# 💫 About Me:
-About Me 🧑‍💻:<br>Focused on building practical AI/ML and API driven applications with strong DSA fundamentals.<br>upskilling in System design and laser focused in building app for my startup<br><br>🔭 I’m currently working on App Development to build my own Startup
+# 🧑‍💻About Me:
+<br>Focused on building practical AI/ML and API driven applications with strong DSA fundamentals.<br>upskilling in System design and laser focused in building app for my startup<br><br>🔭 I’m currently working on App Development to build my own Startup
 
 
 ## 🌐 Socials:
@@ -14,5 +14,6 @@ About Me 🧑‍💻:<br>Focused on building practical AI/ML and API driven appl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bharadwaj430&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
