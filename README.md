@@ -22,9 +22,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-(https://github-readme-stats.vercel.app/api?username=bharadwaj430 &show_icons=true&theme=dark&hide_border=true)
-(https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430 &layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=bharadwaj430&show_icons=true&theme=dark&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430&layout=compact&theme=dark&hide_border=true" />
+</p>
+
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
