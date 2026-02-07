@@ -1,6 +1,9 @@
 # 🧑‍💻About Me:
 <br>Focused on building practical AI/ML and API driven applications with strong DSA fundamentals.<br>upskilling in System design
-<img align="right" alt="coding"width="400" src="<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/466812d1-d23a-4014-80c3-f260f8d3b42b" />
+
+
+
+"<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/466812d1-d23a-4014-80c3-f260f8d3b42b" />
 "
 
 
@@ -21,6 +24,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
