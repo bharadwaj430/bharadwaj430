@@ -1,3 +1,5 @@
+[![MasterHead](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/3126b876-773a-499e-bc0a-96ad54c92a18" /> ]
+
 # 🧑‍💻About Me:
 <br>Focused on building practical AI/ML and API driven applications with strong DSA fundamentals.<br>upskilling in System design
 
@@ -24,6 +26,7 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
