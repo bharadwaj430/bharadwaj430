@@ -25,7 +25,8 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg)
+![Snake animation]github-contribution-grid-snake.svg
+
 
 
 
