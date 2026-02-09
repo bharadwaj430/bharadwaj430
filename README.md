@@ -26,11 +26,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake-dark.svg"/>
     <img src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg"
-      alt="github contribution snake" />
+      alt="github contribution snake"/>
   </picture>
 </p>
+
 
 
 
