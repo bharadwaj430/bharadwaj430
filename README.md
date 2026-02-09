@@ -23,8 +23,16 @@
 
 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg"
+      alt="github contribution snake" />
+  </picture>
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
