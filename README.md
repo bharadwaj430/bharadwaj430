@@ -1,18 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bharadwaj430.bharadwaj430" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
-    
 
-<div align="center"> 
-  <a href="mailto:bharadwajmarri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-      </a>
-  <a href="https://www.linkedin.com/in/marri-bharadwaj-9b1397305/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://bharadwaj430.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-    <div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marri+Bharadwaj!;" />
+</h1>
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/3126b876-773a-499e-bc0a-96ad54c92a18" /> 
 
@@ -22,7 +12,7 @@
 
 
 "<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/466812d1-d23a-4014-80c3-f260f8d3b42b" />
-"
+
 
 
 
@@ -37,14 +27,91 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bharadwaj430&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=bharadwaj430)
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=bharadwaj430&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharadwaj430&theme=tokyonight&hide_border=true" />
+</p>
+
+<hr/>
+
+<!-- Activity Graph -->
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwaj430&theme=tokyo-night&hide_border=true" />
+</p>
+
+<hr/>
+
+<!-- Social Links -->
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  </a>
+  <a href="https://https://x.com/Bharadwaj___239">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="center">
-  <h2> #Contributions by Me </h2>
+  <h2> Contributions by Me </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg" />
 
   
+
 
 
 
