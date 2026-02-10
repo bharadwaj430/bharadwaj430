@@ -1,3 +1,13 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bharadwaj430.bharadwaj430" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
+    
+
+<div align="center"> 
+  <a href="mailto:bharadwajmarri@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <div align="center">
+
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/3126b876-773a-499e-bc0a-96ad54c92a18" /> 
 
 # 🧑‍💻About Me:
@@ -20,6 +30,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=bharadwaj430&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bharadwaj430&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg" />
+  
+
 
 
 
