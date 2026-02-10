@@ -6,6 +6,12 @@
 <div align="center"> 
   <a href="mailto:bharadwajmarri@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+      </a>
+  <a href="https://www.linkedin.com/in/marri-bharadwaj-9b1397305/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://bharadwaj430.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
     <div align="center">
 
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/3126b876-773a-499e-bc0a-96ad54c92a18" /> 
@@ -31,8 +37,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bharadwaj430&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg" />
   
+
 
 
 
