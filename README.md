@@ -32,14 +32,12 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 # 📊 GitHub Stats:
-<!-- GitHub Stats -->
 <p align="center">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=bharadwaj430&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharadwaj430&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=bharadwaj430&theme=tokyonight&hide_border=true"
+  />
 </p>
-<hr/>
+
 
 <h2 align="center">Contribution Activity</h2>
 
@@ -51,11 +49,12 @@
 </p>
 
 <div align="center">
-  <h2> Contributions by Me </h2>
+  <h2>  My Contributions  </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg" />
 
   
+
 
 
 
