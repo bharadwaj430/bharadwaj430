@@ -20,8 +20,8 @@
 
 
 
-"<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/466812d1-d23a-4014-80c3-f260f8d3b42b" />
-"
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/466812d1-d23a-4014-80c3-f260f8d3b42b" />
+
 
 
 
@@ -54,6 +54,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg" />
 
   
+
 
 
 
