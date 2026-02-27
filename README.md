@@ -53,7 +53,16 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg" />
 
+  #3D Contribution Animation
+<p align="center">
+  <img 
+    src="./profile-3d-contrib/profile-night-rainbow.svg" 
+    width="2000" 
+    height="450">
+</p>
+
   
+
 
 
 
