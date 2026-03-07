@@ -53,15 +53,9 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bharadwaj430/bharadwaj430/output/github-contribution-grid-snake.svg" />
 
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/<bharadwaj430>/<bharadwaj430>/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<bharadwaj430>/<bharadwaj430>/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/<bharadwaj430>/<bharadwaj430>/output-3d-contrib/day.svg" />
-	</picture>
-</p>
 
   
+
 
 
 
