@@ -16,6 +16,7 @@
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/3126b876-773a-499e-bc0a-96ad54c92a18" /> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj430&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj430" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharadwaj430" alt="bharadwaj430" /></a> </p>
 
 # 🧑‍💻About Me:
 <br>Focused on building practical AI/ML and API driven applications with strong DSA fundamentals.<br>upskilling in System design
