@@ -17,8 +17,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwaj430&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwaj430" /> </p>
 
 
-# 🧑‍💻About Me:
-<br>Focused on building practical AI/ML and API driven applications with strong DSA fundamentals.<br>upskilling in System design
+## 🧑‍💻About Me:
+I build practical AI/ML applications, APIs, and data-driven solutions
 
 
 
